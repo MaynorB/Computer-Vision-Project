@@ -5,8 +5,8 @@ import os
 video_path = 'videos/ghost.mp4'        
 output_directory = 'extracted_frames/ghost'
 
-start_time = 210       # Start at _ seconds
-end_time = 220         # Stop at _ seconds
+start_time = 110       # Start at _ seconds
+end_time = 130         # Stop at _ seconds
 interval = 1          # Extract one frame every _ seconds
 max_frames = None     # Optional: stop after this many frames (set None to disable)
 
