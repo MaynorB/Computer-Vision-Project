@@ -1,3 +1,3 @@
 # Project
 
-Place images in `colmap_workspace/images/` and run your pipeline.
+Place Videos inside `project/videos` folder and run setup_project
